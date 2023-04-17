@@ -1,0 +1,22 @@
+{
+  "name": "ceremony",
+  "version": "1.0.0",
+  "description": "to contribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charonAMM/ceremony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charonAMM/ceremony/issues"
+  },
+  "homepage": "https://github.com/charonAMM/ceremony#readme",
+  "dependencies": {
+    "snarkjs": "^0.6.10"
+  }
+}
