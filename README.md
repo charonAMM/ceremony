@@ -4,6 +4,8 @@ to contribute
 
 
 ```
+npm i
+
 snarkjs zkey contribute charon_ceremony2_$x.zkey charon_ceremony2_$y.zkey --name="MyName" -v -e="random entropy"
 snarkjs zkey contribute charon_ceremony16_$x.zkey charon_ceremony16_$y.zkey --name="MyName" -v -e="Another random entropy"
 
