@@ -22,3 +22,6 @@ run the code
 
         - move the old zkey ($x file) to the oldzKeys folder
         - make a PR with the new zKey
+
+
+Be sure not to push any secrets!!! 
