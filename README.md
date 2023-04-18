@@ -20,7 +20,3 @@ Edit the commands:
 run the code
  move the old zkey ($x file) to the oldzKeys folder
  make a PR with the new zKey
-
-
-snarkjs zkey contribute charon_ceremony2.zkey charon_ceremony2_1.zkey --name="themandore's epic contribution" -v -e="184idfuhdgmfduh and this is where I go. always back to you.  Once or twice maybe sure, but I can't get it to stop.  you're immortalized beyond what you could be"
-snarkjs zkey contribute charon_ceremony16.zkey charon_ceremony16_1.zkey --name="themandore's epic contribution" -v -e="184idfuhdgmfduh and this is where I go. always back to you.  Once or twice maybe sure, but I can't get it to stop.  you're immortalized beyond what you could be"
