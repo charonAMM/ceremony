@@ -17,7 +17,7 @@ Step 2 : Edit the commands:
         - change $x to the correct number of the current file. 
         - change $y to the  $x + 1
         - change the --name field ("MyName").  Note that this will be public so use some identifier (name, nickname, fun saying, etc.)
-        - change the entropy -e field("Random entropy" and "Another random entropy).  These are the secret.  Make them long and make them something no one will ever guess and you'll never reveal.  Ideally like a dark secret of yours, mixed with random letters/numbers you won't remember.  This is private and hashed so no one will ever know!
+        - change the entropy -e field("Random entropy" and "Another random entropy).  These are the secret.  Make them long and make them something no one will ever guess and you'll never reveal.  Ideally like a dark secret of yours mixed with random letters/numbers you won't remember.  This is private and hashed so no one will ever know!
 
 Step 3: Run the updated commands!
 
